@@ -1,0 +1,20 @@
+pycharm快捷键：
+
+Tab / Shift + Tab   缩进、不缩进当前行
+Ctrl+Shift+A          查找操作
+Ctrl + /                  行注释/取消行注释
+Ctrl + Alt + I          自动缩进
+pycharm中的设置是可以导入和导出的，file>export settings可以保存当前pycharm中的设置为jar文件，重装时可以直接import settings>jar文件，就不用重复配置了。
+
+jupyter notebook
+可以跑本地代码的两种方法：
+%run 后跟的是Python文件的绝对路径。 
+!python3”用于执行Python 3.x版本的代码。
+
+获取当前位置
+%pwd 或者 !pwd
+
+!都是!shell命令
+!ls 显示当前本地目录（Linux系统）
+!dir 显示当前本地目录 （window系统）
+
